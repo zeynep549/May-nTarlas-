@@ -1,2 +1,2 @@
-# MinesweeperGame
-#XOX Game
+# MinesweeperGame(harder) and xox game(easy)
+
